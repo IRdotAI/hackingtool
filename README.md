@@ -231,7 +231,7 @@
 - [ ] Want to do automatic 
 
 
-##### Your Favourite Tool is not in hackingtool or Suggestions Please [CLICK HERE](https://img.shields.io/github/issues/AbrasiveTax49/hackingtool)
+##### Your Favourite Tool is not in hackingtool or Suggestions Please [CLICK HERE](https://github.com/AbrasiveTax49/hackingtool/issues)
 ![AbrasiveTax49's github stats](https://github-readme-stats.vercel.app/api?username=AbrasiveTax49&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 #### Don't Forgot to share with Your Friends 
