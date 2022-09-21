@@ -1,9 +1,9 @@
-echo "    .aMMMb  dMMMMb  dMMMMb  .aMMMb  .dMMMb  dMP dMP dMP dMMMMMP dMMMMMMP .aMMMb  dMP dMP     ";
-echo "   dMP.dMP dMP.dMP dMP.dMP dMP.dMP dMP. VP amr dMP dMP dMP        dMP   dMP.dMP dMK.dMP      ";
-echo "  dMMMMMP dMMMMK. dMMMMK. dMMMMMP  VMMMb  dMP dMP dMP dMMMP      dMP   dMMMMMP .dMMMK.       ";
-echo " dMP dMP dMP.aMF dMP'AMF dMP dMP dP .dMP dMP  YMvAP' dMP        dMP   dMP dMP dMP'AMF        ";
-echo "dMP dMP dMMMMP' dMP dMP dMP dMP  VMMMP' dMP    VP'  dMMMMMP    dMP   dMP dMP dMP dMP         ";
-echo "                                                                                             ";
+echo "    .aMMMb  dMMMMb  dMMMMb  .aMMMb  .dMMMb  dMP dMP dMP dMMMMMP dMMMMMMP .aMMMb  dMP   dMP     ";
+echo "   dMP.dMP dMP.dMP dMP.dMP dMP.dMP dMP. VP amr dMP dMP dMP        dMP   dMP.dMP  dMK  dMP      ";
+echo "  dMMMMMP dMMMMK. dMMMMK. dMMMMMP  VMMMb  dMP dMP dMP dMMMP      dMP   dMMMMMP  .dMMMK.        ";
+echo " dMP dMP dMP.aMF dMP'AMF dMP dMP dP .dMP dMP  YMvAP' dMP        dMP   dMP dMP  dMP  AMF        ";
+echo "dMP dMP dMMMMP' dMP dMP dMP dMP  VMMMP' dMP    VP'  dMMMMMP    dMP   dMP dMP dMP    dMP        ";
+echo "                                                                                               ";
 
 clear
 
