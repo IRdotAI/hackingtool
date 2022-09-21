@@ -16,7 +16,7 @@ WHITE='\e[37m'
 NC='\e[0m'
 purpal='\033[35m'
 
-echo -e "${ORANGE} "
+echo -e "${CYAN} "
 echo ""
 echo "   ▄█    █▄       ▄████████  ▄████████    ▄█   ▄█▄  ▄█  ███▄▄▄▄      ▄██████▄           ███      ▄██████▄   ▄██████▄   ▄█       ";
 echo "  ███    ███     ███    ███ ███    ███   ███ ▄███▀ ███  ███▀▀▀██▄   ███    ███      ▀█████████▄ ███    ███ ███    ███ ███       ";
@@ -32,7 +32,7 @@ echo -e "${BLUE}                                    https://github.com/AbrasiveT
 echo -e "${RED}                                     [!] This Tool Must Run As ROOT [!]${NC}\n"
 echo -e ${CYAN}                "Select Best Option : \n"
 echo -e "${WHITE}              [1] Kali Linux / Parrot-Os (apt)"
-echo -e "${WHITE}              [2] Arch Linux (pacman)" # added arch linux support because of feature request #231
+echo -e "${WHITE}              [2] Arch Linux (pacman)" 
 echo -e "${WHITE}              [0] Exit "
 echo -n -e "AbrasiveTax49 >> "
 read choice
@@ -46,7 +46,7 @@ if [ $choice == 1 ] || [ $choice == 2 ]; then
         if [ $choice == 1 ]; then
             sudo apt-get update -y && apt-get upgrade -y
             sudo apt-get install python3-pip -y
-        elif [ $choice == 2 ]; then # added arch linux support because of feature request #231
+        elif [ $choice == 2 ]; then 
             sudo pacman -Suy
             sudo pacman -S python-pip yay
         fi
@@ -88,7 +88,7 @@ if [ $choice == 1 ] || [ $choice == 2 ]; then
         echo "[✔] Successfuly Installed !!! \n\n";
         echo -e $ORANGE "       [+]+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[+]"
         echo            "       [+]                                                             [+]"
-        echo -e $ORANGE "       [+]     ✔✔✔ Now Just Type In Terminal (hackingtool) ✔✔✔         [+]"
+        echo -e $ORANGE "       [+]     ✔✔✔ Now Just Type In Terminal (hackingtool) ✔✔✔      [+]"
         echo            "       [+]                                                             [+]"
         echo -e $ORANGE "       [+]+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[+]"
     else
